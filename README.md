@@ -1,2 +1,2 @@
 # quizzing-site
-quizzing website
+A simple responsive website for quizzes on various subjects. Websites feature online quizzes on many subjects. 
